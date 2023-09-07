@@ -7,5 +7,7 @@ Inter-subject emotion classification using EEG signals is a challenging task due
 
 # Key Findings
 Emotion classification accuracy improves significantly after 20 seconds from the beginning of the stimulus.
+
 Increasing the number of sensors beyond 10 enhances inter-subject emotion classification accuracy.
+
 Time domain features outperform frequency domain and nonlinear features in classifying multilevel emotions in an inter-subject domain.
